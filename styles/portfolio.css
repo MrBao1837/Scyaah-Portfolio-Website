@@ -1,0 +1,13 @@
+.image-grid-container {  
+  text-align: center;
+  background-color: red;
+  width: 50%;
+  position: absolute;
+  top: 50%;
+  bottom: 50%;
+  
+}
+.portfolio-img{
+  width: 50%;
+}
+
